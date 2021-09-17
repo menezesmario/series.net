@@ -50,7 +50,7 @@ namespace DIO.Series
 
         public bool retornaExcluido()
         {
-            return this.Excluido();
+            return this.Excluido;
         }
 
         public void Excluir() {
